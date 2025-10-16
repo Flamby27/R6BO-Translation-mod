@@ -1,0 +1,12 @@
+# Ignorer tous les fichiers par défaut
+*
+
+# --- Fichiers à conserver ---
+# Conserver le script principal
+!main.sh
+# Conserver le dossier des scripts et tout son contenu
+!scripts/
+# Conserver le fichier .gitignore lui-même
+!/.gitignore
+# Conserver le fichier README
+!README.md
