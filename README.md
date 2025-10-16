@@ -61,13 +61,13 @@ Ce mod traduit les éléments suivants du jeu :
 *	zip,
 
 ### Usage
-Après avoir rassemblé tous les fichiers à traduire dans le dossier "source_files", lancez le fichier main.sh
+Après avoir rassemblé tous les fichiers à traduire dans le dossier "source_files", lancez le fichier main.sh en précisant le code ISO de la langue souhaitée.
 _Exemple:_
-    main.sh FR
-    main.sh IT
-    main.sh DE
+    ./main.sh fr
+    ./main.sh de
+    ./main.sh it
 
-  
+ 
 
 ##  Contribuer
 
