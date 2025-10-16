@@ -63,9 +63,11 @@ Ce mod traduit les éléments suivants du jeu :
 ### Usage
 Après avoir rassemblé tous les fichiers à traduire dans le dossier "source_files", lancez le fichier main.sh en précisant le code ISO de la langue souhaitée.
 _Exemple:_
+
     ./main.sh fr
     ./main.sh de
     ./main.sh it
+
 
  
 
