@@ -1,4 +1,14 @@
-/source_files/*
-/translated_files/*
-/working_files/*
-/zipped_files/*
+# Ignore the content of directories, but keep the directories themselves.
+# This is done by ignoring everything inside, except for a .gitkeep file.
+
+source_files/*
+!source_files/.gitkeep
+
+translated_files/*
+!translated_files/.gitkeep
+
+working_files/*
+!working_files/.gitkeep
+
+zipped_files/*
+!zipped_files/.gitkeep
