@@ -17,4 +17,3 @@ Les instructions d'installation seront ajoutées prochainement.
 ## Contribuer
 
 Si vous souhaitez contribuer à la traduction, veuillez forker le projet et soumettre une pull request avec vos modifications.
-Les fichiers à traduire se trouvent dans le dossier `1-ToBeTranslated`.
